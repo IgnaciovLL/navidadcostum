@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/navidadcostum/static/css/main.b2772d42.css",
-    "main.js": "/navidadcostum/static/js/main.6e85577d.js",
-    "static/js/787.0f1e6339.chunk.js": "/navidadcostum/static/js/787.0f1e6339.chunk.js",
-    "index.html": "/navidadcostum/index.html",
-    "main.b2772d42.css.map": "/navidadcostum/static/css/main.b2772d42.css.map",
-    "main.6e85577d.js.map": "/navidadcostum/static/js/main.6e85577d.js.map",
-    "787.0f1e6339.chunk.js.map": "/navidadcostum/static/js/787.0f1e6339.chunk.js.map"
+    "main.css": "/contumbresnavidenas/static/css/main.b2772d42.css",
+    "main.js": "/contumbresnavidenas/static/js/main.70cbac23.js",
+    "static/js/787.0f1e6339.chunk.js": "/contumbresnavidenas/static/js/787.0f1e6339.chunk.js",
+    "static/media/ConstumbresLog.png": "/contumbresnavidenas/static/media/ConstumbresLog.9002ef5e7cd0f3ae4f89.png",
+    "index.html": "/contumbresnavidenas/index.html",
+    "main.b2772d42.css.map": "/contumbresnavidenas/static/css/main.b2772d42.css.map",
+    "main.70cbac23.js.map": "/contumbresnavidenas/static/js/main.70cbac23.js.map",
+    "787.0f1e6339.chunk.js.map": "/contumbresnavidenas/static/js/787.0f1e6339.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b2772d42.css",
-    "static/js/main.6e85577d.js"
+    "static/js/main.70cbac23.js"
   ]
 }
