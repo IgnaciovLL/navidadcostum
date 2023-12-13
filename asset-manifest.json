@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/navidadcostum/static/css/main.b2772d42.css",
+    "main.js": "/navidadcostum/static/js/main.6e85577d.js",
+    "static/js/787.0f1e6339.chunk.js": "/navidadcostum/static/js/787.0f1e6339.chunk.js",
+    "index.html": "/navidadcostum/index.html",
+    "main.b2772d42.css.map": "/navidadcostum/static/css/main.b2772d42.css.map",
+    "main.6e85577d.js.map": "/navidadcostum/static/js/main.6e85577d.js.map",
+    "787.0f1e6339.chunk.js.map": "/navidadcostum/static/js/787.0f1e6339.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2772d42.css",
+    "static/js/main.6e85577d.js"
+  ]
+}
